@@ -1,5 +1,5 @@
 asd
-<<<<<<< HEAD
+
 vewwev
 wqdqw
 
@@ -7,5 +7,4 @@ wfefwefwegu
 
 
 ㅂㄹㅈㄼㅈㄹ
-=======
->>>>>>> 72357ff9b2ee2b69b72a3fa5cdf7e8da2e63dc01
+
